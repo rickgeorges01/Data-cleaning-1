@@ -1,4 +1,4 @@
-<h1> 🧹 Data Cleaning Project 1 : Customer service </h1>
+<h1> 🧹 Data Cleaning Project 1 : Customer call </h1>
 
 Welcome to the Data Cleaning Project! This project aims to clean and prepare data efficiently using pandas within a Jupyter Notebook environment. Data cleaning is essential for improving data quality and usability before analysis or visualization.
 <h2>🔧 Prerequisites </h2>
