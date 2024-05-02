@@ -5,10 +5,10 @@ Welcome to the Data Cleaning Project! This project aims to clean and prepare dat
 
 Make sure you have the following tools and libraries installed:
 
-  <ul>🐍Python 3.x</ul>
-  <ul>📓 Jupyter Notebook</ul> 
-  <ul>🐼 pandas</ul>
-  <ul>📊 openpyxl (to read Excel files)</ul> 
+    🐍 Python 3.x
+    📓 Jupyter Notebook
+    🐼 pandas
+    📊 openpyxl (to read Excel files)
     
   You can install the dependencies using pip:
     ``pip install pandas openpyxl jupyter``
