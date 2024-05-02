@@ -16,6 +16,7 @@ Welcome to the Data Cleaning Project! This project aims to clean and prepare dat
 <h2>📂 Project Contents </h2>
     Reading Data: Load data from an Excel file using pandas.
     Data Cleaning: Clean and transform data using techniques such as:
+        
         ❌ Removing duplicates
         🧹 Replacing missing values (NaN)
         🔄 String transformations (dates, numbers, etc.)
