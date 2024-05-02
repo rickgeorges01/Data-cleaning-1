@@ -24,6 +24,7 @@ Welcome to the Data Cleaning Project! This project aims to clean and prepare dat
         📏 Normalizing values in specific columns
 
 <h2>🚀 How to Use</h2>
+
     Clone or download this project to your local machine.
     Open the ``.ipynb`` file in Jupyter Notebook.
     Follow the code cells to clean the data.
