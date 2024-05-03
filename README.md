@@ -18,14 +18,14 @@ The notebook covers a variety of data cleaning techniques:
 - **Reproducible** : The code is structured for easy re-use and extension.
 - **Integration-Friendly** : Compatible with different data sources, making it ideal for integration with other data processing pipelines.
 
-<h1>📦 Requirements</h1>
+##  📦 Requirements
 
     Python 3.8+
     pandas 2.0+
     openpyxl 3.1+
     tabulate 0.9+
 
-<h1>⚙️ Installation</h1>
+##  ⚙️ Installation
 
   Clone this repository:
       
@@ -39,19 +39,19 @@ Open the Jupyter notebook to explore the code:
 
     jupyter notebook Data\ Cleaning\ in\ pandas.ipynb
 
-<h1>📝 Instructions </h1>
+##  📝 Instructions 
 
-    Explore the Data: Use the initial cells to understand the dataset's structure and quality.
-    Clean the Data: Follow the outlined steps to remove unwanted columns, handle missing values, and standardize formats.
-    Transform the Data: Implement transformations to prepare the data for downstream analysis.
-    Validate the Data: Ensure the data meets quality standards after cleaning.
+- **Explore the Data** : Use the initial cells to understand the dataset's structure and quality.
+- **Clean the Data** : Follow the outlined steps to remove unwanted columns, handle missing values, and standardize formats.
+- **Transform the Data** : Implement transformations to prepare the data for downstream analysis.
+- **Validate the Data** : Ensure the data meets quality standards after cleaning.
 
-<h1>🔑 Usage Tips </h1>
+## 🔑 Usage Tips 
 
-    Customize the data cleaning steps to match your specific dataset.
-    Experiment with different data handling techniques to see how they impact data quality.
+- Customize the data cleaning steps to match your specific dataset.
+- Experiment with different data handling techniques to see how they impact data quality.
 
-<h1>👥 Contributors </h1>
+## 👥 Contributors 
 
-    YELEUMEU Rick Georges - yeleumeurickgeorges@gmail.com
+-- **YELEUMEU Rick Georges* - yeleumeurickgeorges@gmail.com**
 
