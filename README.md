@@ -53,5 +53,5 @@ Open the Jupyter notebook to explore the code:
 
 ## 👥 Contributors 
 
--- **YELEUMEU Rick Georges* - yeleumeurickgeorges@gmail.com**
+ **YELEUMEU Rick Georges* - yeleumeurickgeorges@gmail.com*
 
