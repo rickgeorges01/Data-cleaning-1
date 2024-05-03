@@ -1,4 +1,4 @@
-#🧹 Data 1- Cleaning in Pandas 
+# 🧹 Data 1- Cleaning in Pandas 
 
 This project is the first in a series on Data & AI. It serves as an in-depth introduction to data cleaning using Python and pandas. The project showcases practical examples of real-world data cleaning techniques on customer information to prepare it for subsequent data analysis and AI tasks.
 
@@ -12,7 +12,7 @@ The notebook covers a variety of data cleaning techniques:
 -🔧 Data Transformation: Reformatting data for consistency and further analysis.
 -✅ Data Verification: Validating the transformations to ensure data quality.
 
-## 🌟 Features 
+##  🌟 Features 
 
    -- Scalable: The approach can be adapted to datasets of varying sizes and structures.
     --Reproducible: The code is structured for easy re-use and extension.
